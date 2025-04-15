@@ -1,4 +1,6 @@
 # 📉 Customer Churn Analysis
+![Alt text](https://github.com/rimshasiddiqui68/Customer-Churn-Analysis/raw/5e763672a317c9f86188ee476a96110b3153eea1/ChatGPT%20Image%20Apr%2016%2C%202025%2C%2002_21_39%20AM.png)
+
 
 ## 📁 Project Overview  
 In today’s competitive telecom industry, retaining customers is just as vital as acquiring new ones. With easy switching and numerous service providers, customer churn can significantly impact growth if not managed. This project explores data from 6,418 telecom customers in India to understand churn patterns and uncover key reasons behind customer loss. By analyzing demographics, service usage, payments, and contracts, the goal is to help telecom companies identify at-risk customers and implement targeted strategies to improve retention and long-term growth.
